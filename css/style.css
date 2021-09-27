@@ -1,0 +1,21 @@
+#formulario{
+    background: grey;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+label{
+    font-weight: bolder;
+    color: white;
+}
+
+#response{
+    height: 40px;
+    /* border: solid 1px black; */
+    margin-bottom: 10px;
+}
+
+#form-del{
+    width: 100%;
+    text-align: right;
+}
